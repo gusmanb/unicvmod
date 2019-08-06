@@ -5,7 +5,7 @@ This is a small circuit to convert RF output to composite video. It's a complete
 
 ## Assembly notes
 
-JP3 and JP4 are intended to be pins on the under side of the circuit which will connect to ground and leave a bit of space between the device's board and the mod solders. JP1 and JP2 are intended to be wired and use the inputs to the RF can.
+JP3 and JP4 are intended to be pins on the under side of the circuit which will connect to ground and leave a bit of space between the device's board and the mod solders, they fit on the same place as the RF can has it's grounding legs. JP1 and JP2 are intended to be wired and use the inputs to the RF can.
 
 ![Picture of assembled circuit](https://i.imgur.com/YFvb8o5.png)
 
