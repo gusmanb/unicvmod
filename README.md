@@ -11,7 +11,7 @@ JP3 and JP4 are intended to be pins on the under side of the circuit which will 
 
 As a final measure I use some small rubber feets under the front and back of the circuit to make it totally stable and avoid any chance of short circuit.
 
--Update: I have added a zip file with the gerber output ready for production.
+- Update: I have added a zip file with the gerber output ready for production.
 
 ## Calibration notes
 
