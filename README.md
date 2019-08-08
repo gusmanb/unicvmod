@@ -19,9 +19,9 @@ R1 and R2 are 500Ohm potentiometers in order to allow you to adjust the signal l
 
 ## Part list
 
-R1, R2    -     500 Ohm trimmer
-R3        -     75 Ohm, 1/4w
-R4        -     270 Ohm, 1/4w
-T1        -     BC337
-JP3, JP4  -     Single pin
-J1        -     RCA female (RCA-103)
+- R1, R2    -     500 Ohm trimmer
+- R3        -     75 Ohm, 1/4w
+- R4        -     270 Ohm, 1/4w
+- T1        -     BC337
+- JP3, JP4  -     Single pin
+- J1        -     RCA female (RCA-103)
