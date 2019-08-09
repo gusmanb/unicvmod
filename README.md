@@ -2,6 +2,7 @@
 
 This is a small circuit to convert RF output to composite video. It's a complete drop-in replacement for the astec RF modulators, just remove the old "can" and drop the circuit in it's place, as simple as that.
 
+![Schematic](https://raw.githubusercontent.com/gusmanb/unicvmod/master/Schematic.png)
 
 ## Assembly notes
 
