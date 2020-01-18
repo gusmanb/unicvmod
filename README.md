@@ -4,6 +4,12 @@ This is a small circuit to convert RF output to composite video. It's a complete
 
 ![Schematic](https://raw.githubusercontent.com/gusmanb/unicvmod/master/Schematic.png)
 
+![PCB](https://raw.githubusercontent.com/gusmanb/unicvmod/master/PCB.png)
+
+## Update 1.1
+
+Added capacitor on the output to improve video quality.
+
 ## Assembly notes
 
 JP3 and JP4 are intended to be pins on the under side of the circuit which will connect to ground and leave a bit of space between the device's board and the mod solders, they fit on the same place as the RF can has it's grounding legs. JP1 and JP2 are intended to be wired and use the inputs to the RF can.
@@ -11,8 +17,6 @@ JP3 and JP4 are intended to be pins on the under side of the circuit which will 
 ![Picture of assembled circuit](https://i.imgur.com/YFvb8o5.png)
 
 As a final measure I use some small rubber feets under the front and back of the circuit to make it totally stable and avoid any chance of short circuit.
-
-- Update: I have added a zip file with the gerber output ready for production.
 
 ## Calibration notes
 
