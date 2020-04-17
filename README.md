@@ -27,6 +27,8 @@ R1 and R2 are 500Ohm potentiometers in order to allow you to adjust the signal l
 - R1, R2    -     500 Ohm trimmer
 - R3        -     75 Ohm, 1/4w
 - R4        -     270 Ohm, 1/4w
+- C1        -     10uF 16v
 - T1        -     BC337
 - JP3, JP4  -     Single pin
 - J1        -     RCA female (RCA-103)
+
